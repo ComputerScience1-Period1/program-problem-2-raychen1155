@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\shr-student-p01\high schools\allen high school\2020\230877\documents\stuffff\project1\project1\source.cpp(25): warning C4101: 'calc_4': unreferenced local variable
+\\shr-student-p01\high schools\allen high school\2020\230877\documents\stuffff\project1\project1\source.cpp(25): warning C4101: 'calc_3': unreferenced local variable
+  Project1.vcxproj -> \\SHR-Student-P01\High Schools\Allen High School\2020\230877\Documents\stuffff\Project1\Debug\Project1.exe
+  Project1.vcxproj -> \\SHR-Student-P01\High Schools\Allen High School\2020\230877\Documents\stuffff\Project1\Debug\Project1.pdb (Partial PDB)
